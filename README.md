@@ -6,12 +6,12 @@
 4. Shivam Agarwal (2021A7PS2909G)
 
 ## Necessary Dependencies to be installed:
-numpy - 1.23.1
-tensorflow - 2.10.1
-matplotlib - 3.6.3
-torch - 2.1.0
-torchvision - 0.16.0
-pyro-ppl - 0.2.1
+- numpy - 1.23.1
+- tensorflow - 2.10.1
+- matplotlib - 3.6.3
+- torch - 2.1.0
+- torchvision - 0.16.0
+- pyro-ppl - 0.2.1
 
 <!-- pls also include instructions on how to compile and run the project and obtain any results.  -->
 
